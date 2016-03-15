@@ -1,0 +1,21 @@
+{
+  "name": "emir-biz-web",
+  "description": "biz portfolio",
+  "main": "index.js",
+  "authors": [
+    "sean"
+  ],
+  "license": "ISC",
+  "moduleType": [
+    "es6"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
